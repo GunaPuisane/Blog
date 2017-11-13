@@ -1,0 +1,11 @@
+.loadingPage {
+    height: 30px;
+    border-bottom: 2px solid;
+    background-color: rgb(43, 41, 41);
+    color:white;
+    font-family: "Open Sans", "Droid Sans", Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 25px;  
+}

@@ -1,0 +1,36 @@
+.title {
+    font-family: "Open Sans", "Droid Sans", Helvetica, Arial, sans-serif;
+}
+
+.articleTitle {
+    font-family: "Open Sans", "Droid Sans", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    color: blue;
+    display: inline-block;
+    text-align: center;
+}
+.articleTitle:hover {
+    color: black;
+}
+
+
+html {
+    height: 100%;
+    box-sizing: border-box;
+  }
+  
+  *,
+  *:before,
+  *:after {
+    box-sizing: inherit;
+  }
+  
+  body {
+    position: relative;
+    margin: 0;
+    padding-bottom: 6rem;
+    min-height: 100%;
+  }
+  
+

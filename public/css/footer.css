@@ -1,0 +1,15 @@
+footer {
+  background-color: white;
+  
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    background-color: #efefef;
+    text-align: center;
+  line-height: 5px;  
+  border-top: solid;
+  font-size: 12px;
+  font-family: "Open Sans", "Droid Sans", Helvetica, Arial, sans-serif;
+}

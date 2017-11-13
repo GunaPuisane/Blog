@@ -1,0 +1,62 @@
+.donebtn {
+    background-color: white;
+    color: black;
+    padding: 5px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+}
+
+.createbtn {
+  
+    background-color: white;
+    color: black;
+    padding: 5px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+    float: right;
+}  
+
+.articlePage {
+     margin-left: 20px;
+     margin-right: 20px;
+}
+
+#articleName {
+   line-height: 100px;
+}
+
+.editdelete {
+    background-color: white;
+    color: black;
+    padding: 12px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 12px;
+    margin: 5px;
+    cursor: pointer;
+    float: right;
+}
+
+.paginate {
+    float: left;
+}
+.article-text{
+    font-size: 12px;
+    width:80%;
+    text-align: justify;
+    margin-left: 20px;
+}
+.article-title{
+    font-size: 18px;
+    margin-left: 20px;
+   
+   
+}
+
